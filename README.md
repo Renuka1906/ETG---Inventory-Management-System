@@ -2,7 +2,7 @@
 This repository contains all codes with JSON files for making an Inventory Management System durin ETG Skill India AL/ML Scholarship
 
 ### About Repository
-The repository is all about inventory management system using JSON (NoSQL) database, where operations like Purchase item, Add item to inventory, delete item form inventory are performed on JSON file. 'ETG Inventory Management.ipynb' File contains the Code for performing various operations on data. 'Shop.json' file contains all the records and also reflects all changes done like insert(add), update and delete products from data. 'Sales.json' file contains all the transaction done i.e. all the purchased products by customer.
+The repository is all about inventory management system using JSON (NoSQL) database, where operations like Purchase item, Add item to inventory, delete item form inventory are performed on JSON file. 'ETG Inventory Management System.ipynb' File contains the Code for performing various operations on data. 'Shop.json' file contains all the records and also reflects all changes done like insert(add), update and delete products from data. 'Sales.json' file contains all the transaction done i.e. all the purchased products by customer.
 
 ### Features:
 I have added 5 features for per product in data:
